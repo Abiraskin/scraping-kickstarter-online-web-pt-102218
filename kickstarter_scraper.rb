@@ -12,7 +12,7 @@ def create_project_hash
     projets[title.to_sym] = {}
   end
 
-  
+
 
   projects
 end
